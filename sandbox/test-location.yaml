@@ -5,4 +5,4 @@ metadata:
 spec:
   type: url
   targets:
-    - http://github.com/tgau/backstage/example/test-component.yaml
+    - http://github.com/tgau/backstage/sandbox/test-component.yaml
