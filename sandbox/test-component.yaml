@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: tgTest
   description: |
-    This is a Test description.
+    This is a Test description, too.
   links:
     - title: Website
       url: http://backstage.io
