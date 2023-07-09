@@ -6,3 +6,5 @@ spec:
   type: url
   targets:
     - https://github.com/tgau/backstage/blob/master/sandbox/test-component.yaml
+    - https://github.com/tgau/backstage/blob/master/sandbox/test-user.yaml
+    - https://github.com/tgau/backstage/blob/master/sandbox/test-group.yaml
