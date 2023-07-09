@@ -3,6 +3,13 @@ kind: Location
 metadata:
   name: example-components
   description: A collection of all Backstage example components
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
+    - url: https://ui.example.com
+      title: My UI Design
+      icon: ui
 spec:
   targets:
     - ./components/artist-lookup-component.yaml
