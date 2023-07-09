@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: test-location
+spec:
+  type: url
+  targets:
+    - https://github.com/tgau/backstage/blob/master/sandbox/test-component.yaml
