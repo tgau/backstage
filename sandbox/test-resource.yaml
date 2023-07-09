@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: tgau-resource
+  description: Stores artist details
+spec:
+  type: database
+  owner: tgau-person
+  system: tgau-system
